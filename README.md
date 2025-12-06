@@ -108,7 +108,8 @@ rate(http_request_duration_seconds_sum[5m]) / rate(http_request_duration_seconds
 ## 📸 Screenshots
 
 ### Application Homepage
-![Application](screenshots/app-homepage.png)
+<img width="1904" height="951" alt="Screenshot 2025-12-06 165549" src="https://github.com/user-attachments/assets/9c655425-5a7b-4f82-bd62-be43c1c06b15" />
+
 
 ### Prometheus Dashboard
 ![Prometheus](screenshots/prometheus-dashboard.png)
