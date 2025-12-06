@@ -1,0 +1,23 @@
+# Docker volumes and data
+prometheus-data/
+grafana-data/
+
+# Node modules
+app/node_modules/
+app/package-lock.json
+
+# Logs
+*.log
+
+# Environment files
+.env
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# IDE files
+.vscode/
+.idea/
+*.swp
+*.swo
