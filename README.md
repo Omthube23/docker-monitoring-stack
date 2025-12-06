@@ -108,17 +108,17 @@ rate(http_request_duration_seconds_sum[5m]) / rate(http_request_duration_seconds
 ## 📸 Screenshots
 
 ### Application Homepage
-<img width="1904" height="951" alt="Screenshot 2025-12-06 165549" src="https://github.com/user-attachments/assets/9c655425-5a7b-4f82-bd62-be43c1c06b15" />
 
+<img width="958" height="479" alt="image" src="https://github.com/user-attachments/assets/7fd8c31e-866b-4d3e-94cb-f6415bd01c9d" />
 
 ### Prometheus Dashboard
-![Prometheus](screenshots/prometheus-dashboard.png)
+<img width="1904" height="951" alt="Screenshot 2025-12-06 165549" src="https://github.com/user-attachments/assets/9c655425-5a7b-4f82-bd62-be43c1c06b15" />
 
 ### Grafana Dashboard
-![Grafana](screenshots/grafana-dashboard.png)
+<img width="1904" height="1010" alt="Screenshot 2025-12-06 165527" src="https://github.com/user-attachments/assets/dffa82b8-b086-48a5-995a-0d4cba06c161" />
 
 ### Metrics Overview
-![Metrics](screenshots/metrics-overview.png)
+<img width="1913" height="901" alt="Screenshot 2025-12-06 173745" src="https://github.com/user-attachments/assets/2f0e600c-fb7e-4f71-984c-3110548a527c" />
 
 ## 🔍 Monitoring Queries
 
